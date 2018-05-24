@@ -37,6 +37,7 @@ For more details, see [课程列表](https://bfxy.ke.qq.com/#tab=1&category=-1).
 - **QQ**: 524423112
 - **课程列表**: [腾讯课堂](https://bfxy.ke.qq.com/#tab=3&category=-1)
 - **微信公众号**: 
+
 ![](docs/wechat.jpeg)
 
 ## License
