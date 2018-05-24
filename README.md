@@ -1,19 +1,11 @@
 ![](docs/logo_with_text.png)
 
-## 卜凡学院-基础技术组件
-包含在企业实战中应用到的各种基础技术组件，让同学们在开发的时候不用重复造轮子.
+## 卜凡学院-公开课
+公开课代码,欢迎fork和star
 
-- __Logback To Kafka__
+- __002 Netty__
 
-    Logback 日志直接输出到Kafka.
-
-- __Redis Distributed Lock__
-
-    Redis 分布式式锁.
-
-- __Redis Distributed Sequence Generator__
-
-    Redis 分布式序列生成器.
+    Netty权威指南-承载百万长连接解决方案.
 
 For more details, see [课程列表](https://bfxy.ke.qq.com/#tab=1&category=-1).
 
@@ -44,6 +36,7 @@ For more details, see [课程列表](https://bfxy.ke.qq.com/#tab=1&category=-1).
 
 - **QQ**: 524423112
 - **课程列表**: [腾讯课堂](https://bfxy.ke.qq.com/#tab=3&category=-1)
+- **微信公众号**: ![](docs/wechat.jpeg)
 
 ## License
 TiDB is under the MIT License . See the [LICENSE](./LICENSE) file for details.
